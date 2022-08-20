@@ -1,0 +1,11 @@
+127.0.0.1 - - [20/Aug/2022:11:03:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:03:28 +0530] "GET /Online_Shopping_Project/ HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:03:29 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:03:47 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1456
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:03:47 +0530] "GET /Online_Shopping_Project/css/signup-style.css HTTP/1.1" 200 1810
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:03:47 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:04:21 +0530] "POST /Online_Shopping_Project/signupAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:04:21 +0530] "GET /Online_Shopping_Project/signup.jsp?msg=valid HTTP/1.1" 200 1516
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:04:33 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 899
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:04:52 +0530] "POST /Online_Shopping_Project/loginAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:11:04:52 +0530] "GET /Online_Shopping_Project/login.jsp?msg=notexist HTTP/1.1" 200 1014

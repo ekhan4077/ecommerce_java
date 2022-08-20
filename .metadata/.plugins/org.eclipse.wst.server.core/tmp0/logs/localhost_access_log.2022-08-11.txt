@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:11:55 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 899
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:11:57 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 899
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:13:03 +0530] "POST /Online_Shopping_Project/loginAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:13:04 +0530] "GET /Online_Shopping_Project/admin/adminHome.jsp HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:13:10 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 899
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:14:36 +0530] "POST /Online_Shopping_Project/loginAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:14:36 +0530] "GET /Online_Shopping_Project/home.jsp HTTP/1.1" 200 1291
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:14:48 +0530] "POST /Online_Shopping_Project/loginAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:14:48 +0530] "GET /Online_Shopping_Project/login.jsp?msg=notexist HTTP/1.1" 200 1014
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:14:58 +0530] "GET /Online_Shopping_Project/login.jsp?msg=notexist HTTP/1.1" 200 1014
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:15:00 +0530] "GET /Online_Shopping_Project/login.jsp?msg=notexist HTTP/1.1" 200 1014
+0:0:0:0:0:0:0:1 - - [11/Aug/2022:00:15:03 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 899

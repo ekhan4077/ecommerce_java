@@ -1,0 +1,16 @@
+package project;
+import java.sql.*;
+public class ConnectionProvider {
+	public static Connection getCon() { 
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/ecommerce_jsp","root","1Rajhacker.");
+			System.out.println("connection built");
+			return con;
+		}catch(Exception e){
+			System.out.println("connection failed");
+			e.printStackTrace();
+			return null;
+		}
+	}
+}

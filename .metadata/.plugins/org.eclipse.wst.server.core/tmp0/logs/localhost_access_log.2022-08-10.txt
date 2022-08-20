@@ -1,0 +1,17 @@
+127.0.0.1 - - [10/Aug/2022:21:37:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:37:08 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1406
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:37:08 +0530] "GET /Online_Shopping_Project/css/signup-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:37:08 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:39:38 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1426
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:41:02 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1428
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:41:54 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1451
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:44:30 +0530] "GET /Online_Shopping_Project/signup.jsp HTTP/1.1" 200 1451
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:44:57 +0530] "POST /Online_Shopping_Project/signupAction.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:44:57 +0530] "GET /Online_Shopping_Project/signup.jsp?msg=valid HTTP/1.1" 200 1511
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:45:39 +0530] "GET /Online_Shopping_Project/signup.jsp?msg=valid HTTP/1.1" 200 1511
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:21:45:53 +0530] "GET /Online_Shopping_Project/signup.jsp?msg=valid HTTP/1.1" 200 1511
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:22:08:59 +0530] "GET /Online_Shopping_Project/signup.jsp?msg=valid HTTP/1.1" 200 1516
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:22:09:02 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 850
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:22:10:12 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 940
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:22:14:48 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 1080
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:22:14:49 +0530] "GET /Online_Shopping_Project/login.jsp HTTP/1.1" 200 1080
